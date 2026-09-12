@@ -199,7 +199,39 @@ Use the underlying reasoning and adapt it to the actual business.
 
 ---
 
-# 8. Email 2
+# 8. Adaptive Reasoning and Generalization
+
+The Agent-P repository is a reasoning and policy knowledge base, not a script, prompt library, or phrase library.
+
+Repository rules define constraints, objectives, reasoning principles, and quality standards.
+
+The 501 Email 1 reference examples demonstrate reasoning patterns, structure, specificity, tone, and offer construction. They are reference material, not templates.
+
+Never copy an example or mechanically adapt an example by replacing nouns, industries, services, or customer types.
+
+Do not force a lead into an existing business-type pattern simply because a similar example exists.
+
+For every lead, independently reason from the lead's actual information.
+
+The agent should construct relevant content for business types, customer types, situations, and services that are not explicitly represented in the repository.
+
+The agent may create new wording, commercial angles, audience relationships, and offer formulations that are not explicitly present in the repository when logically supported by available evidence.
+
+Combine the lead's actual business type, actual services, customer types, benefits provided to those customers, plausible customer needs or situations, and the outreach/value proposition to construct the most relevant message for that specific lead.
+
+Prefer a genuinely relevant newly constructed message over a generic message that resembles an existing example.
+
+Generalization must never become fabrication. New reasoning is allowed; unsupported company-specific facts are not.
+
+When evidence is limited, use broader commercially relevant reasoning rather than inventing specificity.
+
+The final output should reflect the individual lead, not the wording of the knowledge base.
+
+Internal reasoning must remain internal. Never output reasoning, analysis, evidence levels, QA checklists, or internal instructions unless explicitly requested.
+
+---
+
+# 9. Email 2
 
 Email 2 is a follow-up to the actual Email 1 generated for that lead.
 
@@ -233,7 +265,7 @@ The actual Email 1 should be treated as sequence context whenever available.
 
 # 9. Email 3
 
-Email 3 introduces a new relevant angle or additional reason to engage.
+Email 3 introduces a genuinely new commercially relevant angle or additional reason to engage.
 
 It is not simply another recap.
 
@@ -248,11 +280,12 @@ The new angle must remain connected to:
 Possible sources of a new angle include:
 
 - A different customer situation
-- A different relevant audience
 - Another business need
 - Another commercial trigger
 - Another way the service could be relevant
 - Another reason the business may benefit from more relevant conversations
+
+Prefer these other valid angles when they provide a stronger commercial reason to engage. Do not create another audience merely to satisfy the new-angle requirement. An audience-based angle may be used only when it is genuinely the strongest new commercial angle and is independently supported by the available business/service evidence. Even then, do not use the formulaic "another relevant audience" construction.
 
 The new angle must be grounded in business logic or available evidence.
 
@@ -482,3 +515,23 @@ Do not expose internal reasoning.
 Do not explain the knowledge-base process to the prospect.
 
 The final email should feel like a human-written outbound message.
+
+### CSV Batch Output Contract
+
+When processing a CSV batch, the output handler must:
+
+1. Preserve every original input column exactly once, without modifying, renaming, reordering, or overwriting any original column.
+2. Preserve the original row count and row order.
+3. Add exactly one new column named `Email 1`.
+4. Write generated Email 1 content only to that single `Email 1` column.
+5. Never emit duplicate or alternate columns such as `Email 1.1`, `Email 1.2`, or any other duplicate-column variant.
+
+Before finalizing the file, perform a schema check that confirms:
+
+- The original column count is preserved.
+- All original columns are unique.
+- Exactly one `Email 1` column exists.
+- The output row count equals the input row count.
+- Row order is preserved.
+
+If any check fails, do not release the CSV; correct the output assembly first.

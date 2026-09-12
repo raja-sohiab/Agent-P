@@ -728,4 +728,4 @@ A simple accurate email is better than a highly personalized email based on inve
 
 # 16. Frozen Production Knowledge Base
 
-As of 2026-09-12, the Email 1, Email 2, and Email 3 knowledge base is frozen at its validated production behavior. Do not change the Email 1, Email 2, Email 3, or related knowledge-base rules, patterns, examples, constraints, or repository structure without an explicit future instruction.
+As of 2026-09-12, the Email 1, Email 2, and Email 3 knowledge base is FROZEN at its validated production behavior. Emails 1–3 and their related knowledge-base rules, patterns, examples, constraints, and repository structure must not be changed without an explicit future instruction.

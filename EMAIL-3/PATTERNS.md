@@ -476,7 +476,7 @@ Do not rotate patterns in a fixed order.
 
 For example:
 
-Email 3 = Audience Expansion
+Email 3 = Audience Expansion only when independently supported and genuinely strongest
 Email 3 = Situation Expansion
 Email 3 = Replacement
 Email 3 = Maintenance

@@ -265,12 +265,13 @@ The commercial reason must be different.
 Potential Email 3 angles can come from:
 
 - Another customer situation
-- Another audience
 - Another commercial trigger
 - Another service-related need
 - Another buying decision
 - Another legitimate source of demand
 - Another relevant commercial opportunity
+
+Prefer other valid new angles when they provide a stronger commercial reason to engage. Another audience is not a default pattern and may be used only when it is genuinely the strongest new commercial angle and independently supported by the available business/service evidence. Do not use the formulaic "another relevant audience" construction.
 
 Choose the strongest supported option.
 

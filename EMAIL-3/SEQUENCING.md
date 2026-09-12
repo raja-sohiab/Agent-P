@@ -105,7 +105,7 @@ Or:
 → Follow-up
 
 **Email 3**
-→ Another relevant audience
+→ A genuinely new commercially relevant angle, such as a different customer situation, buying trigger, decision point, service application, commercial opportunity, or service need. An audience change is only valid when it is the strongest independently supported angle, and the formulaic "another relevant audience" construction is not used.
 
 Or:
 

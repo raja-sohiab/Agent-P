@@ -47,11 +47,12 @@ A new angle means a different but related way of thinking about the business's c
 Possible sources include:
 
 - Another customer situation
-- Another relevant audience
 - Another commercial trigger
 - Another service-related need
 - Another type of prospect
 - Another reason prospects may need the company's service
+
+Prefer these other valid angles when they provide a stronger commercial reason to engage. Another audience is not a default pattern and may be used only when it is genuinely the strongest new commercial angle and independently supported by the available business/service evidence. Do not use the formulaic "another relevant audience" construction.
 
 The new angle must remain logically connected to the business.
 

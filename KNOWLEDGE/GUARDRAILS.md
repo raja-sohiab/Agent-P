@@ -230,7 +230,17 @@ Do not use em dashes.
 
 ---
 
-# 15. No Template Copying
+# 15. No Em Dash in Output
+
+The em dash character “—” must never appear anywhere in subject lines, Email 1, Email 2, or Email 3.
+
+Before output, explicitly QA-check for the character “—”. If it appears anywhere in generated subject or email content, rewrite the affected text before output.
+
+A normal hyphen "-" is not an em dash and is treated separately.
+
+---
+
+# 16. No Template Copying
 
 Do not copy:
 
@@ -246,7 +256,7 @@ They do not provide reusable templates.
 
 ---
 
-# 16. No Mechanical Variation
+# 17. No Mechanical Variation
 
 Do not change words randomly simply to make an email different.
 
@@ -261,9 +271,73 @@ Variation should come from:
 
 Natural writing is more important than artificial uniqueness.
 
+### Sequence language variation safeguard
+
+For Email 1, Email 2, and Email 3:
+
+- Avoid repeatedly using the same value/CTA construction across a batch.
+- Do not mechanically rotate synonyms just to create variation.
+- Prefer natural variation in sentence structure, verbs, CTA wording, and framing when the context allows it.
+- Repeated phrasing that becomes formulaic across a batch should be treated as a QA concern.
+- Variation must never weaken relevance, clarity, evidence safety, or the sequence role.
+- Choose the most natural expression for each individual lead rather than applying a rotation list.
+- The same phrase may be used when it is genuinely the most natural wording, but repeated formulaic patterns across a batch should trigger QA review.
+
+## Offer Construction Must Vary at the Reasoning Level
+
+Variation must not be created by mechanically replacing words such as:
+
+- reach
+- connect
+- put in front of
+- surface
+- find
+- prospects
+- businesses
+- customers
+
+Likewise, do not repeatedly rely on the same CTA constructions such as:
+
+- Worth a look?
+- Worth exploring?
+- Open to seeing how?
+- Interested in exploring?
+
+The agent must vary the underlying offer construction, not merely the vocabulary.
+
+For each lead, independently determine:
+
+1. What the business sells or provides.
+2. Who is most commercially relevant to that business.
+3. What situation, need, decision, or opportunity could create demand.
+4. What outreach action would logically help the business reach that audience.
+5. What commercially meaningful benefit follows from that outreach.
+6. What natural low-pressure CTA fits the specific message.
+
+Possible offer constructions include, but are not limited to:
+
+- reaching people actively considering the service
+- getting the service in front of relevant decision-makers
+- opening conversations with businesses that may need the service
+- identifying organizations evaluating the relevant solution
+- creating introductions to potential buyers
+- bringing relevant prospects into conversations
+- helping the business find additional opportunities within its existing market
+- connecting the service with audiences that have a plausible need
+
+These are reasoning examples, not phrases to rotate mechanically.
+
+Do not force an offer construction when the available evidence does not support it.
+
+When business information is limited, use the strongest broad commercial relationship supported by the evidence rather than falling back to generic statements such as "targeted outreach could help."
+
+A weaker but specific-sounding message is worse than a broader message that is commercially logical.
+
+The final Email 1 should feel independently constructed for the lead rather than generated from a reusable sentence formula.
+
 ---
 
-# 17. No Unnecessary Repetition
+# 18. No Unnecessary Repetition
 
 Do not repeat:
 
@@ -462,6 +536,16 @@ Email 3 suddenly discusses hiring employees.
 
 The new angle must still relate to the business's commercial opportunity.
 
+### Email 3 evidence discipline safeguard
+
+- Email 3's new angle must be supported by the business's actual services or strong category-level relevance.
+- Do not introduce increasingly specific operational scenarios merely to create a new angle.
+- When a possible angle depends on a weak or remote inference, choose a broader, better-supported angle instead.
+- “May” or “could” does not make an otherwise weak or unsupported scenario acceptable.
+- A new angle should be commercially distinct without becoming more speculative.
+- Prefer a strong, well-supported new customer situation, audience, service need, commercial trigger, or prospecting opportunity.
+- Do not invent increasingly creative scenarios simply because Email 3 requires a new angle.
+
 ---
 
 # 29. No Artificial Escalation
@@ -639,3 +723,9 @@ Conciseness
 Variation
 
 A simple accurate email is better than a highly personalized email based on invented assumptions.
+
+---
+
+# 16. Frozen Production Knowledge Base
+
+As of 2026-09-12, the Email 1, Email 2, and Email 3 knowledge base is frozen at its validated production behavior. Do not change the Email 1, Email 2, Email 3, or related knowledge-base rules, patterns, examples, constraints, or repository structure without an explicit future instruction.

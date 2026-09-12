@@ -21,7 +21,15 @@ An email should not be returned until it passes the relevant checks.
 
 ---
 
-# 2. Business Understanding Check
+# 2. Production Word-Count Check
+
+Email 1 must contain 15–25 words. This is a hard production requirement.
+
+Check the word count during final QA. If Email 1 falls outside 15–25 words, rewrite it before release.
+
+---
+
+# 3. Business Understanding Check
 
 Confirm:
 

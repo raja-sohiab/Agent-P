@@ -12,6 +12,8 @@ The agent must adapt the pattern to the actual business, service, audience, and 
 
 # 2. Pattern Selection
 
+Email 3 must introduce a genuinely new commercially relevant angle. That angle may come from a different customer situation, buying trigger, decision point, service application, commercial opportunity, or service need. Do not use synonym replacement to disguise the same construction.
+
 Select the pattern based on:
 
 - What the business provides
@@ -33,7 +35,11 @@ Existing audience
 → Same service
 → PersistIQ value
 
-Use when the company serves multiple legitimate customer groups.
+"Another audience" is not a default or permitted construction. Do not create a second audience merely to satisfy the new-angle requirement. A new angle may instead come from a different customer situation, buying trigger, decision point, service application, commercial opportunity, or service need.
+
+If another audience is genuinely the strongest new commercial angle, reference it only when independently supported by the business/service evidence. Do not use the formulaic "another relevant audience" construction, or disguise the same construction through synonym replacement.
+
+Use an audience change only when the company serves multiple legitimate customer groups.
 
 ### Example
 

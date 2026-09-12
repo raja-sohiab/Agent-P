@@ -498,3 +498,51 @@ Patterns answer:
 They do not answer:
 
 **"What different wording can I use for the same pitch?"**
+
+## New-Angle Construction
+
+Email 3 must introduce a genuinely new commercially relevant reason to engage.
+
+Do not default to the construction:
+
+"[New audience] are another relevant audience for [service]."
+
+Do not create a second audience merely to satisfy the requirement for a new angle.
+
+A new Email 3 angle may instead come from:
+
+- a different customer situation
+- a different buying or decision trigger
+- another relevant application of the service
+- a different commercial opportunity
+- a different service need
+- a different stage of the customer's decision process
+- a relevant business development opportunity
+
+The new angle must remain grounded in the actual business, actual services, and strong category-level relevance.
+
+Email 3 must add something new rather than:
+- repeat Email 1
+- paraphrase Email 2
+- simply introduce another audience
+- reuse the same offer construction
+- invent a specific scenario without evidence
+
+### Construction Diversity
+
+Do not repeatedly use the same sentence structure across leads.
+
+Avoid mechanical patterns such as:
+
+- "[Audience] are another relevant audience..."
+- "[Audience] may also need..."
+- "[Audience] could be another..."
+- "[Service] could also help..."
+
+Variation should occur in the underlying commercial reasoning and sentence construction, not merely through synonym replacement.
+
+Choose the strongest defensible new angle for each lead.
+
+When no strong new angle exists, use a broader commercially logical angle rather than inventing specificity.
+
+The final Email 3 should feel like a natural second reason for the prospect to consider the conversation, not a mandatory third-step template.

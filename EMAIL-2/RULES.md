@@ -386,6 +386,10 @@ The email should communicate the relevant proposition instead.
 
 Before writing Email 2, identify what has already been said in Email 1.
 
+Email 2 must vary naturally across leads in its opening, sentence structure, and CTA. It must not repeatedly begin with the same construction, including repeated patterns such as "Following up...", "Just following up...", "Checking in...", "Wanted to follow up...", or equivalent repeated constructions.
+
+Variation must occur at the reasoning and sentence-construction level, not through mechanical synonym replacement or a predefined rotation. Email 2 must still read the actual Email 1, continue the same core proposition, remain concise and low pressure, avoid a new commercial angle or simple paraphrase, use the actual customer type or relevant context from Email 1 when appropriate, remain commercially relevant to the original offer, use a natural CTA, and contain no em dash character. Do not force variation when it would make the email less natural; relevance and natural language take priority over artificial uniqueness.
+
 Do not unnecessarily repeat:
 
 - The same sentence

@@ -388,7 +388,11 @@ Before writing Email 2, identify what has already been said in Email 1.
 
 Email 2 must vary naturally across leads in its opening, sentence structure, and CTA. It must not repeatedly begin with the same construction, including repeated patterns such as "Following up...", "Just following up...", "Checking in...", "Wanted to follow up...", or equivalent repeated constructions.
 
-Variation must occur at the reasoning and sentence-construction level, not through mechanical synonym replacement or a predefined rotation. Email 2 must still read the actual Email 1, continue the same core proposition, remain concise and low pressure, avoid a new commercial angle or simple paraphrase, use the actual customer type or relevant context from Email 1 when appropriate, remain commercially relevant to the original offer, use a natural CTA, and contain no em dash character. Do not force variation when it would make the email less natural; relevance and natural language take priority over artificial uniqueness.
+Changing the customer type, business name, or a few nouns inside the same sentence formula does not constitute meaningful variation. For example, repeatedly using "Would reaching [customer type] [situation] support/fit [business]? Worth [CTA]?" remains a repeated construction even when the variables change.
+
+Variation must occur at the reasoning and sentence-construction level, not through mechanical synonym replacement or a predefined rotation. Evaluate variation across the opening construction, sentence structure, proposition framing, and CTA construction, not merely vocabulary or customer-type substitution. Depending on the lead, Email 2 may use a question-led follow-up, benefit-led follow-up, concise observation or idea, conditional follow-up, direct commercial question, or continuation of the Email 1 proposition from a different grammatical structure. These are construction options, not a fixed rotation or phrase library.
+
+Email 2 must still read the actual Email 1, continue the same core proposition, remain concise and low pressure, avoid a new commercial angle or simple paraphrase, use the actual customer type or relevant context from Email 1 when appropriate, remain commercially relevant to the original offer, use a natural CTA, and contain no em dash character. Do not require artificial uniqueness or force variation when it would make the email less natural; relevance, continuity with Email 1, natural language, and low-pressure delivery take priority.
 
 Do not unnecessarily repeat:
 

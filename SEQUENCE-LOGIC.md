@@ -96,9 +96,9 @@ Email 1 proposition
 
 # 5. Email 3 — New Angle / Additional Reason
 
-Email 3 introduces a new relevant angle.
+Email 3 introduces a genuinely new commercially relevant angle.
 
-It should provide another legitimate reason for the prospect to consider engaging.
+It should provide another legitimate reason for the prospect to consider engaging. Prefer a different customer situation, commercial trigger, service-related need, decision point, service application, or commercial opportunity when it provides the stronger reason.
 
 The new angle must still relate to:
 
@@ -200,11 +200,12 @@ Email 3 has more flexibility.
 A new angle may come from:
 
 - Another customer situation
-- Another relevant audience
 - Another commercial trigger
 - Another service-related need
 - Another reason prospects may require the company's service
 - Another way the business could benefit from relevant conversations
+
+Do not create another audience merely to satisfy the new-angle requirement. An audience-based angle may be used only when it is genuinely the strongest new commercial angle and independently supported by the available business/service evidence. Do not use the formulaic "another relevant audience" construction. Prefer other valid angles when they provide a stronger commercial reason to engage.
 
 The new angle must be commercially connected to the business.
 

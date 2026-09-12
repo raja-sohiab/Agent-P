@@ -523,10 +523,11 @@ The new angle must be connected to the original business understanding.
 Valid examples of angle changes:
 
 - Different customer situation
-- Different relevant audience
 - Different commercial trigger
 - Different service-related need
 - Different reason the prospect may benefit from additional conversations
+
+Do not create another audience merely to satisfy the new-angle requirement. An audience-based angle may be used only when it is genuinely the strongest new commercial angle and independently supported by the available business/service evidence. Do not use the formulaic "another relevant audience" construction. Prefer other valid angles when they provide a stronger commercial reason to engage.
 
 Invalid:
 

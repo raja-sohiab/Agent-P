@@ -525,6 +525,7 @@ Valid examples of angle changes:
 - Different customer situation
 - Different commercial trigger
 - Different service-related need
+- Different decision point, service application, or commercial opportunity
 - Different reason the prospect may benefit from additional conversations
 
 Do not create another audience merely to satisfy the new-angle requirement. An audience-based angle may be used only when it is genuinely the strongest new commercial angle and independently supported by the available business/service evidence. Do not use the formulaic "another relevant audience" construction. Prefer other valid angles when they provide a stronger commercial reason to engage.
@@ -729,4 +730,4 @@ A simple accurate email is better than a highly personalized email based on inve
 
 # 16. Frozen Production Knowledge Base
 
-As of 2026-09-12, the Email 1, Email 2, and Email 3 knowledge base is FROZEN at its validated production behavior. Emails 1–3 and their related knowledge-base rules, patterns, examples, constraints, and repository structure must not be changed without an explicit future instruction.
+As of 2026-09-12, following validation through commit 0b86f11ac71c808f3be4be562ea0b4ec00e6d1a5, the Email 1, Email 2, and Email 3 knowledge base is FROZEN at its validated production behavior. Emails 1–3 and their related knowledge-base rules, patterns, examples, constraints, and repository structure must not be changed without an explicit future instruction.

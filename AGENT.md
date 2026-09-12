@@ -4,7 +4,7 @@
 Agent-P generates Email 1, Email 2, and Email 3 for ICP-qualified CSV leads. ICP qualification is upstream and must not be repeated here.
 
 ## Mandatory execution gate
-Before generation, load the current repository knowledge and record the Git commit used. Agent-P itself must perform the reasoning and writing for every row. Do not use an external script, hard-coded company mapping, generic template generator, fallback writer, or previously generated reasoning. If this gate cannot be demonstrated, do not release output.
+Before generation, load the current repository knowledge and record the Git commit used. Agent-P itself must perform the reasoning and writing for every row. Do not use an external script, hard-coded company mapping, generic template generator, fallback writer, or previously generated reasoning. If this gate cannot be demonstrated, do not release output. The execution declaration is a recorded claim, not independent cryptographic proof of model authorship; verification comes from the complete run manifest, hashes, context handoff evidence, QA records, and execution trace defined in `TESTING/PRODUCTION-TEST.md`.
 
 ## Per-lead execution
 Process rows independently. For each row, retain an internal evidence state containing: available evidence, business/service understanding, customer type when supported, customer need or situation, and the Email 3 angle. Website access is useful but not mandatory; follow `KNOWLEDGE/EVIDENCE-RULES.md` when access fails.
@@ -34,4 +34,4 @@ Non-owner files must not redefine these rules. The 501 reference CSV is referenc
 ## CSV release contract
 Preserve every original column exactly once, with its original names, order, values, row count, and row order. Add exactly one `Email 1`, one `Email 2`, and one `Email 3` column. Do not emit alternate or duplicate generated columns.
 
-Release only after the complete QA gate in `TESTING/PRODUCTION-TEST.md` passes. Never expose internal reasoning in the CSV.
+Release only after the complete QA gate and required run manifest in `TESTING/PRODUCTION-TEST.md` pass. Never expose internal reasoning in the CSV.

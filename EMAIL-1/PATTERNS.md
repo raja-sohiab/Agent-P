@@ -524,12 +524,14 @@ If that question cannot be answered logically, the agent should reassess its bus
 
 All patterns ultimately follow:
 
-Audience
+Customer type
 → Situation
 → Need
 → Service
-→ Relevant Prospect
+→ Relevant customer type
 → PersistIQ Value
+
+Use the actual customer type in the Email 1 offer when the business and service evidence supports it. Do not use “prospect” as a generic substitute, and do not force or invent a customer type.
 
 The pattern determines how the situation is framed.
 

@@ -15,20 +15,34 @@ The preferred output is concise and normally consists of two sentences.
 
 ---
 
-# 2. Core Structure
+# 2. Direct Offer-Led Structure
 
-The underlying structure is:
+The preferred reasoning sequence is:
 
-Business
-→ Audience
-→ Situation / Need
-→ Service
-→ PersistIQ Value
+Business type + customer type
+→ Customer need or situation
+→ Direct outreach offer
+→ Relevant commercial benefit
 → Soft CTA
 
-This is the reasoning structure.
+The offer should be woven naturally into the business and customer context rather than appended as a generic “We could help...” statement.
 
-It is not a rigid writing template.
+The agent should first understand:
+
+- What the business actually does
+- Who its customers are
+- What benefit or service those customers receive
+- What situation could naturally create a need for that service
+- How relevant prospects could be identified or reached
+- How the outreach offer can create relevant conversations
+
+The offer may naturally communicate finding people who need the service, reaching businesses looking for the solution, finding prospects evaluating the service, opening conversations with relevant buyers, surfacing relevant prospects, finding users who may need the service, putting the business in front of relevant prospects, sending interested prospects their way, or creating conversations with people considering the service.
+
+These are concepts, not mandatory phrases. The agent may use “I”, “we”, indirect offer language, or another natural conversational construction. “PersistIQ” is optional and must not be forced into every email.
+
+The offer should explain or imply a commercially meaningful benefit, not merely say that outreach can happen.
+
+This is the reasoning structure. It is not a rigid writing template.
 
 ---
 
@@ -259,17 +273,17 @@ The reasoning must make commercial sense.
 
 # 10. PersistIQ Value Connection
 
-Once the business situation is established, determine what type of prospect the company would want to reach.
+Once the business situation is established, identify the most relevant customer type the company would want to reach from its actual business and service evidence. Do not use “prospect” as a generic substitute for that customer type. Use the actual customer type naturally in the Email 1 offer when appropriate; do not force or invent one when the evidence does not support it.
 
-Then connect PersistIQ to that prospect.
+Then connect PersistIQ to that customer type.
 
 Conceptually:
 
 Business
-→ Customer
+→ Customer type
 → Need
 → Service
-→ Relevant prospect
+→ Relevant customer type
 → PersistIQ
 
 Example:
@@ -279,7 +293,7 @@ Dental practice
 → dental treatment need
 → dental services
 → people considering treatment
-→ PersistIQ could help create conversations with relevant prospects
+→ PersistIQ could help create conversations with people considering treatment
 
 ---
 
@@ -481,7 +495,22 @@ It should not feel like:
 
 ---
 
-# 20. Core Formula
+# 20. Relevance Priority
+
+When constructing Email 1, prioritize the lead's actual business and customer relationship over generic business-type knowledge.
+
+Use this priority:
+
+1. Direct evidence from the lead or website
+2. Strong understanding of the actual service
+3. Strong or reasonable category-level customer relationship
+4. Plausible commercial situation
+5. Relevant outreach opportunity
+6. Natural offer wording
+
+Do not add specificity merely to make an email sound personalized. If a specific angle is weakly supported, use a broader but stronger commercial angle.
+
+# 21. Core Formula
 
 The underlying formula is:
 
@@ -489,7 +518,9 @@ RELEVANCE
 +
 SERVICE CONTEXT
 +
-PERSISTIQ VALUE
+DIRECT OUTREACH OFFER
++
+RELEVANT COMMERCIAL BENEFIT
 +
 SOFT CTA
 
